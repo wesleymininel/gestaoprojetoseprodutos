@@ -7,8 +7,8 @@ Este projeto de MVP Canvas, Backlog do Produto e Wireframes faz parte do MVP do 
 
 O projeto consistem em definição e entrega dos seguintes itens:
 
-- **⁠Lean Inception detalhada no Miro, incluindo o MVP Canvas**
-- **⁠Backlog do Produto, Definition of Ready e Definition of Done - incluindo ao menos um requisito não funcional **
+- **⁠Lean Inception detalhado no Miro, incluindo o MVP Canvas**
+- **⁠Backlog do Produto, Definition of Ready e Definition of Done - incluindo ao menos um requisito não funcional**
 - **⁠Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação**
 - **Imagens dos Protótipos de Interface**
 
